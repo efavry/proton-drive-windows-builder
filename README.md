@@ -1,6 +1,12 @@
 # proton-drive-windows-builder
 
 Tools to build the ProtonDriveSourceCode available at https://github.com/ProtonDriveApps/
+## Requirements
+- dotnet
+- go
+- gcc
+
+all available in PATH
 
 ## Build on windows
 In a powershell :
