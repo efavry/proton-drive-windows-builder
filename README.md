@@ -1,4 +1,6 @@
-# Tools to build the ProtonDriveSourceCode available at https://github.com/ProtonDriveApps/
+# proton-drive-windows-builder
+
+Tools to build the ProtonDriveSourceCode available at https://github.com/ProtonDriveApps/
 
 ## Build on windows
 In a powershell :
