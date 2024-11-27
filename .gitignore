@@ -1,0 +1,7 @@
+build-dotnet-security/
+build-windows-drive/
+build-windows-drive-block-verification/
+dotnet-security/
+publish-win-x64/
+windows-drive/
+windows-drive-block-verification/
