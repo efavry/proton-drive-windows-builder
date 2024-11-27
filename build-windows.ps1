@@ -1,14 +1,17 @@
 git clone https://github.com/ProtonDriveApps/windows-drive-block-verification.git
 cd windows-drive-block-verification
 git reset --hard 4616d8c7a29f28efd9e33e5f2b6d3e5b3b53a437
+cd ..
 
 git clone https://github.com/ProtonDriveApps/dotnet-security.git
 cd dotnet-security
 git reset --hard fa3fe7f3445c56f6c2ef7e3b8ab54ccf02348c4d
+cd ..
 
 git clone https://github.com/ProtonDriveApps/windows-drive.git
 cd windows-drive
 git reset --hard e5553a80d4b8d09e26d3def57c8fd1b1c2f4dad2
+cd ..
 
 cd dotnet-security/build
 .\build-cshared-windows.ps1
