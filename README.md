@@ -7,3 +7,4 @@ In a powershell :
 ```
 
 ## Build on linux
+I wish 😥.
