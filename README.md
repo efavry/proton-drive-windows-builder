@@ -13,6 +13,9 @@ In a powershell :
 ```powershell
 .\build-windows.ps1
 ```
+Output in the publish-win-x64 folder.
+
+See folders `build-dotnet-security`, `build-windows-drive-block-verification` and `build-windows-drive` for other build outputs.
 
 ## Build on linux
 I wish 😥.
